@@ -33,7 +33,6 @@ The dataset comprises various attributes of Spotify tracks, including:
 * Easily navigate artist names, track details, and explore trends by date and year.
 * Visualize track popularity with a detailed chart displaying the number of streams.
 * Dive into historical data with a comprehensive chart depicting the count of tracks released over time.
-* Compare the impact of tracks across Apple Music, Deezer, sahzam and Spotify charts.
 * Uncover trends with the average streams per year and gain perspective by comparing the top track against the average.
 
 
